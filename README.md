@@ -7,10 +7,9 @@
 
 - AlbertBayes.R 
 
-ただし、ファイルは文字コードが UTF-8 であるため、Windowsで利用する場合は、Shift-JIS に変換する必要があります。
-RStudioであれば、[File] -> [Reopen with Encoding...] で [CP932 (Shift-Jis)] を選ぶと、スクリプトの文字化けが直ります。続けて、[file] -> [Save with Encoding...] で  [CP932 (Shift-Jis)] を選択し、ファイルの文字コードを変更した結果を保存してください。
+ページ上部の AlbertBayes.R をクリックし、遷移したページ右上の [Raw] を押して表示されてページを [名前をつけて保存] してください。
 
-Windowsでは、teraPad https://tera-net.com/library/tpad.html などのエディタを使うことで文字コードを変換できます。
+なお、本ファイルは文字コードが UTF-8 であるため、Windows では文字化けします。RStudio を利用している場合、[File] -> [Reopen with Encoding...] で [CP932 (Shift-Jis)] を選ぶと、スクリプトの文字化けが直ります。続けて、[file] -> [Save with Encoding...] で  [CP932 (Shift-Jis)] を選択し、ファイルの文字コードを変更した結果を保存してください。（WindowsではteraPad https://tera-net.com/library/tpad.html などのエディタを使うことでも文字コードを変換できます。）
 
 
 
