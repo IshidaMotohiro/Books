@@ -1,7 +1,7 @@
 # Books
 石田基広 著書訳書スクリプト類
 
-以前利用していた置き場 https://sites.google.com/site/rmecab/ に公開していたスクリプト類をまとめます。
+以前利用していた置き場 https://sites.google.com/site/rmecab/ （現在リンク切れしています）に公開していたスクリプト類をまとめます。
 
 ## 『Rで学ぶベイズ統計学入門』
 
