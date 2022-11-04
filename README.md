@@ -20,3 +20,7 @@ R-4.1.以前でUTF-8ファイルを読み込むには、RStudio で [File] -> [R
 - ABC_RBook.zip
 
 
+## その他
+以下のドライブに書籍ごとにスクリプトを公開しています。
+
+https://drive.google.com/drive/folders/16LNLnvhnTFhJ9TjxW8-bX7OQ1--Cyu2s?usp=sharing
