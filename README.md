@@ -14,36 +14,40 @@ R-4.1.以前でUTF-8ファイルを読み込むには、RStudio で [File] -> [R
 - R_de_programming_kyoritsu20141020.zip
 
 
-
-## 『Rで学ぶベイズ統計学入門』
+## 『Rで学ぶベイズ統計学入門』　Springer
 
 - AlbertBayes.R 
 
 
-## 『R初心者のためのABC』
+## 『Rで学ぶ日本語テキストマイニング』ひつじ書房
+- SJIS_ver2.zip
+- UTF8_vers2.zip
+
+
+## 『R初心者のためのABC』　Springer
 
 - ABC_RBook.zip
 
-## 『グラフィックスのためのRプログラミング』
+## 『グラフィックスのためのRプログラミング』　Springer
 
 - R_ggplot2_programming.zip
 
 
-## 『Rデータ自由自在』
+## 『Rデータ自由自在』　Springer
 
 - R_data_handling.zip
 
 
-## 『Rグラフィックス自由自在』
+## 『Rグラフィックス自由自在』　Springer
 
 - R_Graphics.zip
 
-## 『RとS-Plusによる多変量解析』
+## 『RとS-Plusによる多変量解析』　Springer
 
 - R_S-Plus.zip
 
 
-## 『ExcelでR自由自在』
+## 『ExcelでR自由自在』　　Springer
 
 - Excel_with_R.zip
 
